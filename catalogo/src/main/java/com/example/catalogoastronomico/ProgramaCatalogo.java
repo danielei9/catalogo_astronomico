@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @version (2019)
  *
  */
-
+/*
 public class ProgramaCatalogo {
 
     /*private static Astro leeAstro(Scanner teclado, CatalogoAstronomico ca) {
@@ -151,5 +151,5 @@ public class ProgramaCatalogo {
             System.out.println("Pulsa cualquier letra para continuar o elige salir (s) >");
             respuesta = teclado.next().toLowerCase();
         };
-    }*/
-}
+    }
+}*/
